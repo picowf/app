@@ -1,0 +1,8 @@
+{
+    "name": "picowf/app",
+    "description": "Skelatal Application",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    }
+}
